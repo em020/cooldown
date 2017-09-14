@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CoolDownSample.iml" filepath="$PROJECT_DIR$/CoolDownSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cooldown/cooldown.iml" filepath="$PROJECT_DIR$/cooldown/cooldown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cooldown.iml" filepath="$PROJECT_DIR$/cooldown.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cooldown/cooldown-cooldown.iml" filepath="$PROJECT_DIR$/cooldown/cooldown-cooldown.iml" />
     </modules>
   </component>
 </project>
